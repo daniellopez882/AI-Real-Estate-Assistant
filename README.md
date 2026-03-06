@@ -1,4 +1,4 @@
-# Daniel's AI Real Estate Assistant
+# AI Real Estate Assistant
 
 Integrated AI platform designed for real estate agencies to facilitate property discovery and analysis through natural language processing. This system leverages a modular architecture combining Retrieval-Augmented Generation (RAG) with autonomous agents to provide semantic search, financial modeling, and real-time market insights.
 
